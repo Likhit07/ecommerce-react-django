@@ -1,43 +1,43 @@
-# 🛍️ Fashion Store – Full Stack E-commerce Website
+#  Fashion Store – Full Stack E-commerce Website
 
 A modern full-stack e-commerce web application built using React and Django REST Framework.
 
-# 🚀 Tech Stack
+#  Tech Stack
 
-1.⚛️ React (Frontend)
-2.🐍 Django
-3. 🔗 Django REST Framework
-4.🔐 JWT Authentication
-5.🗄️ SQLite (Database)
-6.🎨 CSS / Modern UI Animations
+1. React (Frontend)
+2. Django
+3. Django REST Framework
+4. JWT Authentication
+5. SQLite (Database)
+6. CSS / Modern UI Animations
 
-# ✨ Features
+# Features
 
-# 👤 Authentication
+# Authentication
 - User Registration
 - Secure Login using JWT
 - Protected API routes
 
-### 🛍️ Product Management
+# Product Management
 - Category-based layout (Men, Women, Kids)
 - Subcategory sections (No dropdown – modern layout like H&M)
 - Dynamic product images from backend
 - Trending categories below hero section
 - Responsive product cards
 
-# 🛒 Cart Functionality
+# Cart Functionality
 - Add to Cart
 - Remove from Cart
 - Update quantity
 - Dynamic total calculation
 - Cart data stored per authenticated user
 
-# ❤️ Wishlist
+#  Wishlist
 - Add to Wishlist
 - Remove from Wishlist
 - Dedicated wishlist button with icon
 
-# 🎨 UI Features
+# UI Features
 - Modern animated navbar
 - Smooth fade animations
 - Button hover effects
@@ -45,8 +45,6 @@ A modern full-stack e-commerce web application built using React and Django REST
 - Trending categories section
 - Responsive design for all screen sizes
 - Animated login page
-
----
 
 ## 📁 Project Structure
 
